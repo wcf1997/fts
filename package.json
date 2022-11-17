@@ -1,0 +1,23 @@
+{
+  "name": "filetojson",
+  "version": "1.0.0",
+  "description": "文件转换ts",
+  "main": "index.js",
+  "bin": {
+    "fts": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wcf",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "commander": "^9.4.1",
+    "ejs": "^3.1.8",
+    "fs": "^0.0.1-security",
+    "terminal-kit": "^3.0.0"
+  }
+}

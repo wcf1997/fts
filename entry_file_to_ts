@@ -1,0 +1,16 @@
+## ITestName
+attnName	联系人姓名	string	
+attnPhone	联系人手机号	string	
+codeStatus	二维码状态 停用：0，启用：1	integer	
+companyAddress	目的地地址	string	
+companyName	目的地名称	string	
+gmtCreate	创建时间	string	
+gmtModified	更新时间	string	
+id		string	
+latlng	纬度，维度	string	
+status	目的地状态 1正常 0注销	integer	
+subjectId	主体ID（自动生成）	string	
+type	目的地类型	string	
+typeName	目的地类型名称	string
+
+
